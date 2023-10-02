@@ -8,6 +8,8 @@ If you have some payloads that you want to share, you are more than welcome to c
 
 Payloads are also available in `plaintext` directory, in separate TXT files.  
 
+If you want to learn more about LLM vulnerabilities, check (OWASP Top10 for LLM)[https://owasp.org/www-project-top-10-for-large-language-model-applications/]. 
+
 ## PromptInjection
 
 ```
