@@ -1,14 +1,10 @@
 # Payloads for Attacking Large Language Models (PALLMs)
 
-In this document I've collected a bunch of LLM attack payloads.
+In this document I've collected a bunch of LLM attack payloads. I compiled this list using my own payloads and lists from ![Lakera](https://huggingface.co/datasets/Lakera/gandalf_ignore_instructions) and ![Vigil](https://huggingface.co/datasets/deadbits/vigil-jailbreak-all-MiniLM-L6-v2). 
 
-I compiled this list using my own payloads and lists from ![Lakera](https://huggingface.co/datasets/Lakera/gandalf_ignore_instructions) and ![Vigil](https://huggingface.co/datasets/deadbits/vigil-jailbreak-all-MiniLM-L6-v2). 
+If you have some payloads that you want to share, you are more than welcome to create PR! Payloads are also available in `plaintext` directory, in separate TXT files.  
 
-If you have some payloads that you want to share, you are more than welcome to create PR! 
-
-Payloads are also available in `plaintext` directory, in separate TXT files.  
-
-If you want to learn more about LLM vulnerabilities, check ![OWASP Top10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/). 
+**If you want to learn more about LLM vulnerabilities, check ![OWASP Top10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/).**
 
 ## PromptInjection
 
