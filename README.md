@@ -285,6 +285,7 @@ Source: https://huggingface.co/datasets/deadbits/vigil-jailbreak-all-MiniLM-L6-v
 
 ### More jailbreaks: 
 https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
+https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts
 
 ## Short jailbreaks by AIPanic
 This is the work by [AIPanic](https://twitter.com/AIPanic). 
