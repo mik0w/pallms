@@ -51,6 +51,7 @@ Source: https://huggingface.co/datasets/Lakera/gandalf_ignore_instructions
 ### Check also: 
 - https://huggingface.co/datasets/deadbits/vigil-instruction-bypass-ada-002
 - https://huggingface.co/datasets/deadbits/vigil-instruction-bypass-all-MiniLM-L6-v2/viewer/default/train?p=87
+- https://devanshbatham.hashnode.dev/prompt-injection-attacks-for-dummies 
 
 
 ## Unbounded consumption
