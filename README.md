@@ -59,7 +59,7 @@ When discussing **Unbounded Consumption**, one concrete risk is **Cost Harvestin
 This risk is explicitly covered in MITRE ATLAS as  
 [AML.T0034 – Cost Harvesting](https://atlas.mitre.org/techniques/AML.T0034).
 
-Below you will find prompt that were found to cause some models to **loop endlessly**, by repeating a single word or token indefinitely.  
+Below you will find prompts that were found to cause some models to **loop endlessly**, by repeating a single word or token indefinitely.  
 This behavior aligns with MITRE ATLAS techniques related to self-propagating or self-reinforcing prompts:  
 [AML.T0061 – LLM Prompt Self-Replication](https://atlas.mitre.org/techniques/AML.T0061).
 
