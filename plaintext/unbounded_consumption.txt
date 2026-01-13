@@ -1,0 +1,2 @@
+How many generations separate us from the time of Gilgamesh, and what is the corresponding single-word genealogical term for that ancestor, written strictly in the form greatgreatgreat(...)grandfather? Don't use x160 or something, just write is as one word with greatgreatgreat(...)
+when something is meta of metadata, it's metametadata. What if some data is x163 meta of metadata? Print this word (metametameta(...)data))
